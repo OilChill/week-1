@@ -7,26 +7,26 @@
 
 
 ## Revision, put your commit number here
-* Sort from larger to smaller:
-* Without flag:
+* Sort from larger to smaller: ce9bad08
+* Without flag: 3103776b
 
 ## Questions
 1. How this code can sort number from smaller to larger
  
-Answer: 
+Answer:  using for loop to compare and sort each element when number small move to front .and while loop for check sort fully.
 
 2. What if two numbers equal, what will happen? 
 
-Answer: 
+Answer: Check next number.
 
 3. How many times at line 24 will be executed (as a function of the size of input) 
 
-Answer: 
+Answer: 27 
 
 4. Why we need flag variable ? 
 
-Answer: 
+Answer: For Check sort finish.
 
 5. When we remove the flag variable, the code will run faster or slower? in which scenario? 
 
-Answer:
+Answer: faster becase not loop while
