@@ -5,10 +5,10 @@
 * Revise the code such that it can accept input from command line, put your commit number and answer question 1 below
 
 ## Revision, put your commit number here
-* Three functions:
-* Get input from command line:
+* Three functions: c5df973a 
+* Get input from command line: c5df973a 
 
 ## Questions
 1. What are the limitations of your new code?
 
-Answer:
+Answer: new code is run program only onetime if run agin  is close program is running and open program agin.
