@@ -7,7 +7,6 @@
 * Why we need "if-else" in function process?
 
 Answer:
-test
-
+In process need "if - else "  if for number not negative  . else when  number negative  to number as 1 .
 # Resources
 * https://en.wikipedia.org/wiki/Recursion_(computer_science)
